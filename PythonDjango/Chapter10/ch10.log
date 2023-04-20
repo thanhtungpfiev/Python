@@ -1,0 +1,10 @@
+[05/23/2022 01:38:26 PM] INFO: Starting to process `my list`...
+[05/23/2022 01:38:26 PM] DEBUG: Value at position 0  is 1
+[05/23/2022 01:38:26 PM] DEBUG: Value at position 1  is 2
+[05/23/2022 01:38:26 PM] DEBUG: Value at position 2  is 3
+[05/23/2022 01:38:26 PM] ERROR: Faulty position: 3
+Traceback (most recent call last):
+  File "F:\Research\CodingPractice\Python\PythonDjango\Chapter10\log.py", line 16, in <module>
+    logging.debug('Value at position %s  is %s', position, mylist[position])
+IndexError: list index out of range
+[05/23/2022 01:38:26 PM] INFO: Done parsing `mylist`.

@@ -1,0 +1,30 @@
+# Created by Admin at 5/8/2022
+import heapq
+
+
+class PriorityQueue:
+    def __init__(self):
+        self._queue = []
+        self._index = 0
+
+    def push(self, item, priority):
+        heapq.heappush(self._queue, (-priority, self._index, item))
+        self._index += 1
+
+    def pop(self):
+        return heapq.heappop(self._queue)
+
+
+class Item:
+    def __init__(self, name):
+        self.name = name
+
+    def __repr__(self):
+        return f'Item({self.name!r})'
+
+
+q = PriorityQueue()
+q.push(Item('foo'), 1)
+q.push(Item('bar'), 5)
+q.push(Item('spam'), 4)
+q.push(Item('grok'), 1)

@@ -1,0 +1,5 @@
+/.idea/
+/pythonProject/
+/venv/
+/.pytest_cache/
+/__pycache__/
