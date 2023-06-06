@@ -1,3 +1,4 @@
+import os
 import time
 from datetime import datetime
 import smtplib
@@ -20,7 +21,7 @@ def check_position():
 
 
 my_email = "cuongphong2508@gmail.com"
-password = "aatdvndewyaanawc"
+password = os.getenv("password")
 
 parameters = {
     "lat": MY_LAT,
