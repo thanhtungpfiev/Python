@@ -1,7 +1,7 @@
 import os
+from datetime import datetime
 
 import requests
-from datetime import datetime
 
 APP_ID = os.getenv("APP_ID")
 API_KEY = os.getenv("API_KEY")
@@ -37,7 +37,7 @@ for exercise in exercises:
         "workout": {
             "date": datetime.today().date().strftime("%d/%m/%Y"),
             "time": datetime.today().time().strftime("%H:%M:%S"),
-            "exercise": exercise["name"].title(),
+            "exercise": exercise["name"].song(),
             "duration": exercise["duration_min"],
             "calories": exercise["nf_calories"]
         }
