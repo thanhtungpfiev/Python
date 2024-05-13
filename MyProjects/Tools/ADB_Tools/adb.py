@@ -58,20 +58,3 @@ class ADB:
         loc = np.where(result >= threshold)
         test_data = list(zip(*loc[::-1]))
         return test_data
-
-
-def main():
-    """
-    The main function that demonstrates the usage of the ADB class.
-    """
-    d = ADB('emulator-5554')
-    point = d.find('name.png')
-    if point:
-        print(point)
-        d.click(point[0][0], point[0][1])
-    else:
-        print("No match found.")
-
-
-if __name__ == "__main__":
-    main()

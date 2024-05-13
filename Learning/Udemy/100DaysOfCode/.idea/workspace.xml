@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66ab8a75-5454-47ec-b0e4-2e1183c0e935" name="Changes" comment="Udemy Python course day063" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2RaLjVvhAexOy9GAWUMR03JOlu7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Research/CodingPractice/Python/Udemy/100DaysOfCode/Day063/sql_testing&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Research\CodingPractice\Python\Udemy\100DaysOfCode\Day057\blog\templates" />
+      <recent name="F:\Research\CodingPractice\Python\Udemy\100DaysOfCode\Day056\name_card\static\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Research\CodingPractice\Python\Udemy\100DaysOfCode\Day058\resources" />
+      <recent name="F:\Research\CodingPractice\Python\Udemy\100DaysOfCode\Day057\day057_start\templates" />
+      <recent name="F:\Research\CodingPractice\Python\Udemy\100DaysOfCode\Day056\name_card\static" />
+      <recent name="F:\Research\CodingPractice\Python\Udemy\100DaysOfCode\Day056\name_card\templates" />
+      <recent name="F:\Research\CodingPractice\Python\Udemy\100DaysOfCode\" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="automated_amazon_price_tracker" type="PythonConfigurationType" factoryName="Python">
+      <module name="100DaysOfCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="MY_PASSWORD" value="xrlgenrvplfmtxjt" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Admin\100DaysOfCode\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.11 (100DaysOfCode)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day047/automated_amazon_price_tracker" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day047/automated_amazon_price_tracker/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="automating_job_application" type="PythonConfigurationType" factoryName="Python">
+      <module name="100DaysOfCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="ACCOUNT_PASSWORD" value="Wind2508a@A" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Admin\100DaysOfCode\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.11 (100DaysOfCode)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day049/automating_job_application" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day049/automating_job_application/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cookie_clicker" type="PythonConfigurationType" factoryName="Python">
+      <module name="100DaysOfCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Admin\100DaysOfCode\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.11 (100DaysOfCode)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day048/cookie_clicker" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day048/cookie_clicker/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_entry_job_automation" type="PythonConfigurationType" factoryName="Python">
+      <module name="100DaysOfCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Admin\100DaysOfCode\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.11 (100DaysOfCode)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day053/data_entry_job_automation" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day053/data_entry_job_automation/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hello_flask" type="PythonConfigurationType" factoryName="Python">
+      <module name="100DaysOfCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Admin\100DaysOfCode\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.11 (100DaysOfCode)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day054/hello_flask" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day054/hello_flask/hello.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100DaysOfCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day063/day-63-starting-files-library-project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day063/day-63-starting-files-library-project/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sql_testing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="100DaysOfCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="F:\Research\CodingPractice\Python\Udemy\100DaysOfCode\Day063\sql_testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day063/sql_testing/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.automated_amazon_price_tracker" />
+      <item itemvalue="Python.automating_job_application" />
+      <item itemvalue="Python.cookie_clicker" />
+      <item itemvalue="Python.data_entry_job_automation" />
+      <item itemvalue="Python.hello_flask" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.sql_testing" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.sql_testing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66ab8a75-5454-47ec-b0e4-2e1183c0e935" name="Changes" comment="" />
+      <created>1687483383048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687483383048</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Udemy Python course day47">
+      <created>1687486385966</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687486385966</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Udemy Python course day48">
+      <option name="closed" value="true" />
+      <created>1687662835704</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687662835704</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Udemy Python course day49">
+      <option name="closed" value="true" />
+      <created>1687913329599</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687913329599</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Udemy Python course day49">
+      <option name="closed" value="true" />
+      <created>1687913503759</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687913503759</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Udemy Python course day49">
+      <option name="closed" value="true" />
+      <created>1687913571495</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687913571495</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Udemy Python course day49">
+      <option name="closed" value="true" />
+      <created>1687913713544</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1687913713544</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Udemy Python course day051">
+      <option name="closed" value="true" />
+      <created>1688089159765</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1688089159765</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Udemy Python course day053">
+      <option name="closed" value="true" />
+      <created>1688132952398</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1688132952398</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Udemy Python course day054">
+      <option name="closed" value="true" />
+      <created>1688353368479</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1688353368479</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Udemy Python course day056 v2">
+      <option name="closed" value="true" />
+      <created>1688568691224</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1688568691224</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Udemy Python course day057">
+      <option name="closed" value="true" />
+      <created>1688910545171</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1688910545171</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Udemy Python course day058">
+      <option name="closed" value="true" />
+      <created>1689041038713</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1689041038713</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Udemy Python course day063">
+      <option name="closed" value="true" />
+      <created>1690822815749</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1690822815749</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Udemy Python course day47" />
+    <MESSAGE value="Udemy Python course day48" />
+    <MESSAGE value="Udemy Python course day49" />
+    <MESSAGE value="Udemy Python course day051" />
+    <MESSAGE value="Udemy Python course day053" />
+    <MESSAGE value="Udemy Python course day054" />
+    <MESSAGE value="Udemy Python course day056 v2" />
+    <MESSAGE value="Udemy Python course day057" />
+    <MESSAGE value="Udemy Python course day058" />
+    <MESSAGE value="Udemy Python course day063" />
+    <option name="LAST_COMMIT_MESSAGE" value="Udemy Python course day063" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+</project>
