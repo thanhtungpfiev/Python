@@ -1,0 +1,28 @@
+; Parameters:
+; t32marm -c config.t32[,startscript] <intercom_port> <title> <interface to debug module> [interface options]
+; t32marm -c config.t32,multicoredemo.cmm 20000 CORE0 USB CORE=1
+
+; Environment variables
+OS=
+ID=T32${1}
+SYS=C:/TCC/Tools/trace32/bosch_2019_r2_alpha6fp_WIN64
+HELP=C:/TCC/Tools/trace32/bosch_2019_r2_alpha6fp_WIN64/pdf
+
+; RCL=NETASSIST
+; PORT=${1}
+; PACKLEN=1024
+
+; PBI=
+; ${3}
+; ${4}
+; ${5}
+; ${6}
+
+; Printer settings
+PRINTER=WINDOWS
+
+; Maximize mode (VFULL/MDI/MWI)
+SCREEN=
+VFULL
+FONT=SMALL
+HEADER=Trace32 ${2}

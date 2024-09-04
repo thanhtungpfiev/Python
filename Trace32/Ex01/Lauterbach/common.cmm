@@ -1,0 +1,18 @@
+PRINT "I am a common.cmm file"
+
+; Choose hex mode as default for input values
+RADIX Hex
+
+; Choose a different TRACE32 menu file, Japanese (default: english)
+IF LANGUAGE()!=""
+(
+    PRINT "LANGUAGE"
+    ; MENU.ReProgram "Lauterbach/menu/t32ja.men"
+)
+
+; Recall and define TRACE32 command history file
+AutoSTOre , HISTory BookMark
+
+; Start TRACE32 Welcome dialog
+IF !(ICE()||FIRE()||ESI()||STG())&&(VERSION.BUILD()>=57090.)
+    WELCOME.STARTUP
