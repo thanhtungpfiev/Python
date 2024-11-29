@@ -1,0 +1,13 @@
+#/*****************************************************************************
+# * \author ${USER} - thanhtungpfiev@gmail.com
+# *
+# * \date ${DATE}
+# *
+# * \copyright ${YEAR} - thanhtungpfiev@gmail.com. All rights reserved.
+# *
+# * \filename ${FILE_NAME}
+# *
+# * \brief
+# *
+# *
+# *****************************************************************************/
