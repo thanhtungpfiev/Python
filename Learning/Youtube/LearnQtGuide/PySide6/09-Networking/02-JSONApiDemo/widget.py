@@ -30,12 +30,12 @@ class Widget(QWidget, Ui_Widget):
 
     def data_read_finished(self):
         print("Data read finished")
-        if(self.net_reply.error()):
-            print("Some error occured")
-        else:
-            doc = QJsonDocument.fromJson(self.m_data_buffer)
-            array = QJsonArray(doc.array())
-            for i in range(array.count()):
-                object = array.at(i).toObject()
-                text = "[" +str(i) + "] :"+ str(object["title"])
-                self.listWidget.addItem(text)
+        # if(self.net_reply.error()):
+        #     print("Some error occured")
+        # else:
+        doc = QJsonDocument.fromJson(self.m_data_buffer)
+        array = QJsonArray(doc.array())
+        for i in range(array.count()):
+            object = array.at(i).toObject()
+            text = "[" +str(i) + "] :"+ str(object["title"])
+            self.listWidget.addItem(text)
